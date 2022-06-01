@@ -2,7 +2,7 @@ apiVersion: v1
 entries:
   angular-node-chart:
   - apiVersion: v2
-    appVersion: 1.0.0
+    appVersion: 2.0.0
     created: "2022-06-01T10:22:10.522707+05:30"
     description: A Helm chart for Kubernetes
     digest: c0ee13c14a147b4005e8e34d128bc5f2eeafa6a73d16b0d7acc219e19267f122
@@ -10,5 +10,5 @@ entries:
     type: application
     urls:
     - angular-node-chart-1.0.0.tgz
-    version: 1.0.0
+    version: 2.0.0
 generated: "2022-06-01T10:22:10.521707+05:30"
